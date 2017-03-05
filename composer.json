@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "^3.7",
+        "monolog/monolog": "^1.22",
+        "firebase/php-jwt": "^4.0",
+        "tuupola/slim-jwt-auth": "^2.3",
+        "vlucas/phpdotenv": "^2.4",
+		"dropbox/dropbox-sdk": "1.1.6"
+    }
+}
